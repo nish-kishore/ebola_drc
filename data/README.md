@@ -3,11 +3,12 @@
 `health_zone/` contains the above data split by health zone.
 
 ## Notes
+#### Only case numbers (suspected, probably, confirmed, deaths) are up to date; vaccination numbers have only been recorded until 29/12/19.
 1. Data are reported for the 16 health zones that have had suspected, probable or confirmed cases over the course of the outbreak, or where individuals have been vaccinated.
 2. Dates are formatted as YYYYMMDD.
 3. Columns are: cumulative probable cases; cumulative confirmed cases; new suspected cases; total current suspected cases; cumulative deaths; cumulative deaths that are confirmed Ebola cases; cumulative cured cases (from 20180905); and cumulative vaccinated (from 20180815).
 4. Blank entries indicate no data was reported.
-5. Inconsistencies, errors and omissions are noted below, but have not been corrected in the data.
+5. Some inconsistencies, errors and omissions are noted below, but have not been corrected in the data. Please note that this list is not comprehensive.
 
 #### Known inconsistenties, errors and omissions
 1. 20180804: No data reported.
